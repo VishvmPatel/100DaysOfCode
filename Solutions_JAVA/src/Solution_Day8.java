@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day8 {
     public int maximumProfit(int prices[]) {
         if(prices==null || prices.length==0){

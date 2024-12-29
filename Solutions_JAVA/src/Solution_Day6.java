@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 import java.util.*;
 public class Solution_Day6 {
     public List<Integer> findMajority(int[] nums) {

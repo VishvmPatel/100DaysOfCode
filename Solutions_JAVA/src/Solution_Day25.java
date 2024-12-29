@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 import java.util.ArrayList;
 
 class Solution_Day25 {

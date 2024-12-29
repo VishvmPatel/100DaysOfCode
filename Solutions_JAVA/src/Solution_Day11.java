@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day11 {
     int maxProduct(int[] arr) {
         int n = arr.length;

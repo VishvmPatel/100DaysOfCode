@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day17 {
     static char nonRepeatingChar(String s) {
         int[] frequency = new int[26];

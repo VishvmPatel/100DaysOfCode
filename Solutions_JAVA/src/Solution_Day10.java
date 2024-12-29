@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day10 {
     int maxSubarraySum(int[] arr) {
         int maxSum = Integer.MIN_VALUE;

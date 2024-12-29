@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day15 {
     public String addBinary(String s1, String s2) {
         int carry=0;

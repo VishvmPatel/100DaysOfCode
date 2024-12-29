@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day28 {
     int countFreq(int[] arr, int target) {
         int res = 0;

@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day22 {
     static int hIndex(int[] citations) {
         int n = citations.length;

@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day16 {
     public static boolean areAnagrams(String s1, String s2) {
         if (s1.length() != s2.length()) {

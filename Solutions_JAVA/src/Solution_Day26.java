@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 import java.util.Arrays;
 
 class Solution_Day26 {

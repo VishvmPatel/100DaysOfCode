@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day3 {
     public void reverseArray(int arr[]) {
         int n = arr.length;

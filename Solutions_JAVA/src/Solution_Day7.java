@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day7 {
     public int maximumProfit(int prices[]) {
         int n = prices.length;

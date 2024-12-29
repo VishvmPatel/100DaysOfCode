@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day2 {
     void pushZerosToEnd(int[] arr) {
         int nonZeroIndex = 0;

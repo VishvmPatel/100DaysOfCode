@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day19 {
     public static int minChar(String s) {
         int n = s.length();

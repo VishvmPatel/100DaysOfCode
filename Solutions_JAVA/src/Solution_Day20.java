@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day20 {
     static int[] computeLPSArray(String pat) {
         int n = pat.length();

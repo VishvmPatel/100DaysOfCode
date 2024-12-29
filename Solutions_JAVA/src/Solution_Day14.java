@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day14 {
     public int myAtoi(String s) {
         int i = 0, n = s.length();

@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day23 {
     static int countAndMerge(int[] arr, int l, int m, int r) {
         int n1 = m - l + 1, n2 = r - m;

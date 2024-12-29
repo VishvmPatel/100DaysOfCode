@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day5 {
     void nextPermutation(int[] arr) {
         int n = arr.length;

@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day1 {
     public int getSecondLargest(int[] arr) {
         int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE;

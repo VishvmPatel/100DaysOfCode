@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 public class Solution_Day4 {
     static void rotateArr(int arr[], int d) {
         int n = arr.length;

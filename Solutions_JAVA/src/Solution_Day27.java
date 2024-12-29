@@ -1,3 +1,5 @@
+package Solutions_JAVA.src;
+
 class Solution_Day27 {
     public void mergeArrays(int[] a, int[] b) {
         for (int i = b.length - 1; i >= 0; i--) {
